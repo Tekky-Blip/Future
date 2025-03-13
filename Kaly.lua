@@ -1060,7 +1060,7 @@ local Window = Rayfield:CreateWindow({
     Icon = 0,
     LoadingTitle = "Kalyptic Hub",
     LoadingSubtitle = "By FutureTek",
-    Theme = "Amethyst",
+    Theme = "Green",
  
     DisableRayfieldPrompts = false,
     DisableBuildWarnings = false,
